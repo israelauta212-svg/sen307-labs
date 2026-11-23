@@ -1,7 +1,7 @@
 -- VUA-SEN307 Week 5 Practical Lab
 -- Lab 3: Data Definition Language (DDL)
 
-USE sen307_12712;
+USE sen307_12878;
 
 -- 1. Create Department Table (Parent Table)
 CREATE TABLE Department (

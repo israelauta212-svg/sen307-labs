@@ -1,12 +1,12 @@
 # VUA-SEN307 Lab 3: Data Definition Language (DDL) & Constraint Testing
 
-**Name:** Israel Auta Funom
+**Name:** Chris-Derique Ehizo
 
-**Matric Number:** VUG/SEN/24/12712
+**Matric Number:** VUG/SEN/24/12878
 
 **Course:** VUA-SEN307 Database Systems
 
-**Database Schema:** sen307_12712
+**Database Schema:** sen307_12878
 
 ## 1. Schema Overview
 
